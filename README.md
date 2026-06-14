@@ -1,2 +1,2 @@
-# ecommerce-backend-springboot
-Production-ready Spring Boot E - commerce API
+# ecommerce-backend-java
+Food Management System (FMS)
